@@ -1,0 +1,35 @@
+.sign{
+    border-radius: 3.25rem;
+    padding: 5rem 5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    width: 100%;
+}
+.content{
+    display: flex;
+    align-items: center;
+}
+.inputDiv{
+    width: 100%;
+}
+.home .content{
+    padding-inline: 3rem;
+}
+.signBtn{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.sign .leftDiv{
+    width: 100%;
+}
+.btn {
+    width: fit-content;
+}
+.singUp a{
+    font-weight: 400;
+}

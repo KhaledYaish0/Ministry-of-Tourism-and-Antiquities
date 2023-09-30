@@ -1,0 +1,13 @@
+.card{
+    width: 100%;
+    margin-bottom: 3rem;
+}
+.content{
+    overflow: auto;
+}
+.card img{
+    height: 20rem;
+}
+.home .content{
+    padding-inline: 3rem;
+}
